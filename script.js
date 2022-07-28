@@ -70,7 +70,7 @@ $(document).ready(function(){
         
     });
     var typed= new Typed(".typing", {
-        strings:["Youtuber","Developer","Programer","Designer","Freelancer"],
+        strings:["Ethical Hacker","Youtuber","Developer","Programer","Designer","Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
